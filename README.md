@@ -1,4 +1,4 @@
-# Muscle-Contractility-ACTC1
+# Molecular Mechanisms of Muscle Contractility
 
 ## (a) Assignment
 - **Assignment number:** 2
