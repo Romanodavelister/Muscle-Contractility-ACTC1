@@ -1,0 +1,4 @@
+Gene symbol: ACTC1
+NCBI Gene ID: 70
+Official name: actin alpha cardiac muscle 1
+Chromosome: 15
